@@ -1,0 +1,13 @@
+# pizza-sales-analysis
+The Pizza Sales Report Project Dashboard provides an overview of pizza sales data for a specific period. The data is collected from a database using SQL queries and visualized in Power BI. The dashboard includes key performance metrics and highlights the top 5 best and worst performing pizza names in terms of sales.
+Total Sales: The dashboard shows the total sales amount for the selected period, providing an overall view of revenue generated from pizza sales.
+Sales by Region: The dashboard displays a geographical representation of sales across different regions. It helps identify regions with high or low sales performance.
+Sales by Pizza Category: The dashboard categorizes pizzas into types (e.g., Vegetarian, Meat Lovers, Margherita) and presents their respective sales figures. This analysis aids in understanding the popularity of different pizza categories.
+Top 5 Best Performing Pizzas: The dashboard lists the top 5 pizza names that have generated the highest sales during the specified period. This information helps identify the most popular pizzas contributing significantly to revenue.
+Top 5 Worst Performing Pizzas: Conversely, the dashboard highlights the bottom 5 pizza names with the lowest sales figures. This information helps to identify underperforming pizzas that may require attention or reevaluation.
+Sales Trend Over Time: The dashboard includes a time-series chart that visualizes sales trends over the selected period. This line chart allows stakeholders to track sales performance and identify any patterns or seasonality.
+Customer Demographics: The dashboard provides insights into customer demographics, such as age groups, genders, and locations. Understanding customer profiles helps in targeted marketing strategies.
+Pizza Size Preference: A visual representation of pizza size preferences (e.g., Small, Medium, Large) helps in understanding customer preferences and adjusting inventory accordingly.
+Sales by Channel: The dashboard shows the distribution of sales through various channels, such as dine-in, delivery, or online orders. This analysis helps in optimizing sales strategies for different channels.
+Monthly Sales Comparison: The dashboard includes a bar chart that compares monthly sales for the current year to the previous year. This comparison helps in understanding sales growth or decline over time.
+Overall, the Pizza Sales Report Project Dashboard provides a comprehensive view of the pizza sales performance, enabling stakeholders to make data-driven decisions, identify growth opportunities, and address areas of concern to enhance overall business performance.
